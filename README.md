@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Md Al Mursalin
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+
 
 Email Me 👉 ✉️ **mdalmursalin123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,15 +10,14 @@ Email Me 👉 ✉️ **mdalmursalin123@gmail.com** For Collaboration/Project or 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 Here are some ideas to get you started:
-
-🔭 I’m currently working on Web Development Projects
-🌱 I’m currently learning JavaScript
-👯 I’m looking to collaborate on Web Development Projects
-💬 Ask me about Web Development
-📫 How to reach me: Google it "Mahid Munna"
-😄 Pronouns: He/him
-⚡ Fun fact: I Love Code
-
+- 🔭 I’m currently working on ***Web Development Projects***
+- 🌱 I’m currently learning ***JavaScript***
+- 👯 I’m looking to collaborate on ***Web Development Projects***
+- 💬 Ask me about ***Web Development***
+- 📫 How to reach me: ***Google it "Mahid Munna"***
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: ***I Love Code***
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/al.mursalin12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mursalin.al) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/md-al-mursalin-3b6bb334b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdalmursalin123@gmail.com) 
 
